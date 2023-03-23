@@ -1,6 +1,6 @@
 {
   "private": true,
-  "author": "whjin <1414848321@qq.com>",
+  "author": "whjin <wuhuajin09@163.com>",
   "scripts": {
     "build": "max build",
     "dev": "max dev",

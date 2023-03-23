@@ -1,2 +1,2 @@
-# react-umi-app
+# react-umi
 react umi

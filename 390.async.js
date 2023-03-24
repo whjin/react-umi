@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_umi=self.webpackChunkreact_umi||[]).push([[390],{96390:function(s,u,t){t.r(u),t.d(u,{default:function(){return e}});var O=t(62435),n=t(9927),E=t(86074);function e(){var c=(0,n.useOutletContext)();return(0,E.jsx)(n.Outlet,{context:c})}}}]);

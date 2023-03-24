@@ -8,6 +8,6 @@
 /.umi
 /.umi-production
 /.umi-test
-/dist
+/build
 /.mfsu
 .swc

@@ -9,7 +9,9 @@
     "postinstall": "max setup",
     "prepare": "husky install",
     "setup": "max setup",
-    "start": "npm run dev"
+    "start": "npm run dev",
+    "deploy": "gh-pages -d build",
+    "homepage": "./"
   },
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
@@ -20,6 +22,7 @@
   "devDependencies": {
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
+    "gh-pages": "^5.0.0",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
     "prettier": "^2.7.1",
@@ -28,3 +31,4 @@
     "typescript": "^5.0.0"
   }
 }
+

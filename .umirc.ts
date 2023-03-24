@@ -1,6 +1,7 @@
 import { defineConfig } from '@umijs/max';
 
 export default defineConfig({
+  title: 'react-umi',
   antd: {},
   access: {},
   model: {},
@@ -31,4 +32,7 @@ export default defineConfig({
     },
   ],
   npmClient: 'npm',
+  outputPath: 'build',
+  publicPath: 'https://whjin.github.io/react-umi/',
+  history: { type: 'hash' },
 });
